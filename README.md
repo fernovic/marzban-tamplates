@@ -21,7 +21,7 @@ CUSTOM_TEMPLATES_DIRECTORY="/var/lib/marzban/templates/"
 CLASH_SUBSCRIPTION_TEMPLATE="clash/default.yml"
 ```
 
-3. ری استارت مرزنشین
+3. ری استارت مرزبان
 ```sh
 marzban restart
 ```
