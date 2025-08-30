@@ -1,7 +1,11 @@
 <h1 align="center"/>تمپلیت برای پنل  <a href="https://github.com/Gozargah/Marzban">مرزبان</a></h1>
 
 # مقدمه
- تمپلیت شخصی سازی شده برای مرزبان
+<div style="text-align: center;">
+  تمپلیت شخصی سازی شده 
+  <a href="https://github.com/chen08209/FlClash" target="_blank">FLclash</a> 
+  برای مرزبان
+</div>
 
 
 # نصب
